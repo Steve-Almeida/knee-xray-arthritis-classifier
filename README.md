@@ -11,8 +11,8 @@ Trained for 4 epochs
 
 ## Results
 
-Validation accuracy: ~98.8%
-Test accuracy on unseen data: ~85.5%
+Validation accuracy: ~98.97%
+Test accuracy on unseen data: ~86.23%
 
 ## Kaggle Notebook
 [View the full notebook here](https://www.kaggle.com/code/stevealmeidadatasets/knee-x-ray-arthritis-classifier)
